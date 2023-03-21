@@ -1,0 +1,15 @@
+Austin	50006
+Orlando	50789
+Dallas	53136
+Miami	55045
+Houston	60253
+Washington	61278
+Las Vegas	62902
+Seattle	70016
+Boston	73512
+San Diego	91057
+San Francisco	122100
+Atlanta	123759
+Chicago	149156
+New York	259803
+Los Angeles	302088
